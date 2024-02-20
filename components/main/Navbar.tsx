@@ -28,7 +28,7 @@ const Navbar = () => {
             <a href="#projects" className="cursor-pointer">
               Projects
             </a>
-            <a href="https://leetcode.com/vipinprasad1010001/" className="cursor-pointer">
+            <a href="https://leetcode.com/vipinprasad/" className="cursor-pointer">
              LeetCode
             </a>
             <a href="https://github.com/vipin10100001" className="cursor-pointer">
