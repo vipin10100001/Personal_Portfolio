@@ -13,7 +13,7 @@ export default function Home() {
         <Skills />
         <Encryption />
         <Projects />
-        <ResumeButton />
+       
       </div>
     </main>
   );
