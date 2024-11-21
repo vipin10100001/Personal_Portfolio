@@ -37,7 +37,7 @@ const Navbar = () => {
             <a href="https://drive.google.com/file/d/1FsoX81fQ5hzbR-JymyvpEiekX9D1jc--/view?usp=drive_link">
             Resume
             </a>
-            <a href="https://auth.geeksforgeeks.org/user/vipinprasad1010001" className="cursor-pointer">
+            <a href="https://www.geeksforgeeks.org/user/nvipinp8drq/" className="cursor-pointer">
             GeeksforGeeks 
             </a>
           </div>
