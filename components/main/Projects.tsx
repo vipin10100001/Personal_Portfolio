@@ -41,7 +41,7 @@ const Projects = () => {
           </div>
         </div>
         <div className="max-w-md rounded overflow-hidden shadow-lg">
-          <img className="w-full" src="/spotify.png" alt="Spotify-Artist-searcher" />
+          <img className="w-full" src="/spot.png" alt="Spotify-Artist-searcher" />
           <div className="px-6 py-4">
             <div className="font-bold text-xl mb-2">Spotify-Artist-searcher</div>
             <p className="text-white text-base">A React based Web App that displays Artist details using Spotify API</p>
