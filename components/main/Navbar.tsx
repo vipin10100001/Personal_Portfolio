@@ -29,16 +29,16 @@ const Navbar = () => {
               Projects
             </a>
             <a href="https://leetcode.com/vipinprasad/" className="cursor-pointer">
-             LeetCode
+             LeetCode 
             </a>
             <a href="https://github.com/vipin10100001" className="cursor-pointer">
-            GitHub
+            GitHub 
             </a>
-            <a href="https://drive.google.com/file/d/1z4wS6n7mY73yzXYPxfkb2v9fEfHlZOZo/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1UwaRG1Px6WTDRgvwCTv7MKDkaoHdPfcY/view?usp=sharing">
             Resume
             </a>
             <a href="https://www.geeksforgeeks.org/user/nvipinp8drq/" className="cursor-pointer">
-            GeeksforGeeks 
+            GeeksforGeeks Profile
             </a>
           </div>
         </div>
